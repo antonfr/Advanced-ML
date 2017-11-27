@@ -1,2 +1,2 @@
 # Advanced-ML
-Advanced ML Specialization
+Advanced ML Specialization by Higher School of Economics on Coursera
